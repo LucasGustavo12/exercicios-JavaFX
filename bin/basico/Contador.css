@@ -1,0 +1,33 @@
+.conteudo {
+	-fx-background-color: black;
+	-fx-font-family: 'Josefin Sans', sans-serif;
+	
+}
+
+.titulo {
+	-fx-text-fill: #ff0080;
+	-fx-font-size: 28px;
+}
+
+
+.numero {
+	-fx-text-fill: #00ffff;
+	-fx-font-size: 28px;
+}
+
+.botoes {
+	-fx-background-color: #fff;
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 28px;
+	-fx-min-width: 60px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 30px;
+}
+
+
+.verde {
+	-fx-text-fill: #00ff00;
+}
+.vermelho {
+	-fx-text-fill: #ff0000;
+}
